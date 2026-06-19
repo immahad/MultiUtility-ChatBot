@@ -8,7 +8,7 @@ langchain-text-splitters
 python-dotenv
 requests
 pypdf
-duckduckgo-search==5.3.1
+ddgs
 sentence-transformers
 faiss-cpu
 torchvision
