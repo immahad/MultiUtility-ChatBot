@@ -12,3 +12,4 @@ duckduckgo-search
 sentence-transformers
 faiss-cpu
 torchvision
+langgraph-checkpoint-sqlite
