@@ -2,6 +2,7 @@
 
 A versatile, multi-functional chatbot powered by **LangGraph**, **LangChain**, and **Groq** (Llama 3). This application provides a unified conversational interface with access to various external tools, including real-time web search, a calculator, live stock prices, and PDF document retrieval (RAG).
 
+## Live App: [Multi Utility ChatBot](https://multiutility-chatbot.streamlit.app/)
 ## Features
 - **Intelligent Routing**: The chatbot autonomously decides when to answer directly or when to utilize one of its tools.
 - **RAG (Retrieval-Augmented Generation)**: Upload a PDF file, and the chatbot will automatically chunk, embed, and index it using FAISS. You can then ask questions about the document.
